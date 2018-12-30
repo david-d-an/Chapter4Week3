@@ -9,8 +9,8 @@ out/*.jpg
 
 # python cache
 __pycache__/*
-yad2k/models/__pycache__/*
-yad2k/utils/__pycache__/*
+/yad2k/models/__pycache__/*
+/yad2k/utils/__pycache__/*
 
 # IDEs and editors
 /.idea
