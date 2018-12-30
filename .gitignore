@@ -8,13 +8,9 @@ out/*.jpg
 !out
 
 # python cache
-# __pycache__/*
-# yad2k/models/__pycache__/
-# yad2k/utils/__pycache__/
-# __pycache__/
-# yad2k/*/__pycache__/
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 
 
 # IDEs and editors
