@@ -4,8 +4,8 @@
 model_data/yolo.h5
 
 # Temp files
-!out/
 out/*.jpg
+!out/
 
 # python cache
 __pycache__/
